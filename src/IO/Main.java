@@ -6,5 +6,7 @@ public class Main {
 		MessageProvider mp = MessageSupportFactory.getInstance().getMessageProvider();
 		mr.setMessageProvider(mp);
 		mr.render();
+		mr.render();
+		mr.render();
 	}
 }
