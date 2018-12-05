@@ -7,5 +7,6 @@ public class Main {
 		mr.setMessageProvider(mp);
 		mr.render();
 		mr.render();
+		mr.render();
 	}
 }
